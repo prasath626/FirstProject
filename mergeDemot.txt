@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D82F-62E0
+
+ Directory of C:\Users\nithesh\Desktop\FirstProject
+
+12/02/2021  02:22 PM    <DIR>          .
+12/02/2021  02:22 PM    <DIR>          ..
+12/02/2021  02:19 PM                21 add.py
+12/02/2021  02:22 PM                 0 mergeDemot.txt
+               2 File(s)             21 bytes
+               2 Dir(s)  38,937,722,880 bytes free
